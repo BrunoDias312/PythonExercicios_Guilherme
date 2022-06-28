@@ -5,26 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b09dc538-50c4-44fd-8a03-38fbc752fd65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios/exercicio43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/Exercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio16.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio20.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio21.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio22.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio23.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio24.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio31.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio32.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio33.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio34.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio35.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio36.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio37.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio38.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio39.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio40.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio41.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio42.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio43.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios/exercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios Seção 4/exercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +79,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;PyConsoleConfigurable.Python Console&quot;
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="PyConsoleOptionsProvider">
@@ -71,20 +97,20 @@
       <recent name="$PROJECT_DIR$/.idea/Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercicio43">
-    <configuration name="exercicio39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercicio8">
+    <configuration name="exercicio4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/exercicios/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios Seção 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios/exercicio39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,19 +119,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/exercicios/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios Seção 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios/exercicio40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,19 +140,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/exercicios/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios Seção 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios/exercicio41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,19 +161,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/exercicios/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios Seção 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios/exercicio42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,19 +182,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/exercicios/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Exercicios Seção 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios/exercicio43.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Exercicios Seção 5/exercicio8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio43" />
-        <item itemvalue="Python.exercicio42" />
-        <item itemvalue="Python.exercicio41" />
-        <item itemvalue="Python.exercicio40" />
-        <item itemvalue="Python.exercicio39" />
+        <item itemvalue="Python.exercicio8" />
+        <item itemvalue="Python.exercicio7" />
+        <item itemvalue="Python.exercicio6" />
+        <item itemvalue="Python.exercicio5" />
+        <item itemvalue="Python.exercicio4" />
       </list>
     </recent_temporary>
   </component>
